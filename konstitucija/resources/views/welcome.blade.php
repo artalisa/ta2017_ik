@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">KONSTITUCIJA</a>
+                    <a href="https://laravel.com/docs">//KONSTITUCIJA</a>
                     <a href="https://laracasts.com">KONSTITUCIJA</a>
                     <a href="https://laravel-news.com">KONSTITUCIJA</a>
                     <a href="https://forge.laravel.com">KONSTITUCIJA</a>
